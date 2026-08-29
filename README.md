@@ -46,7 +46,7 @@ Apasionada por transformar datos complejos en decisiones estratégicas e insight
 
 ### 📫 ¿Hablamos?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/susana-uztáriz
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/susana-uztáriz
 )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suztariz5@gmail.com)
 
