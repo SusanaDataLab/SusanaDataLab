@@ -51,7 +51,7 @@ Apasionada por transformar datos complejos en decisiones estratégicas e insight
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suztariz5@gmail.com)
 ---
  ---
-*Desarrollado por [Susana Uztáriz](https://github.com/SusanaDataLab) | 📑 [Lee mi Newsletter en Substack](https://https://substack.com/@cafecitodedata )*
+*Desarrollado por [Susana Uztáriz](https://github.com/SusanaDataLab) | 📑 [Lee mi Newsletter en Substack](https://substack.com/@cafecitodedata )*
 <!--
 **SusanaDataLab/SusanaDataLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
